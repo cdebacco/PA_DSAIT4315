@@ -1,6 +1,6 @@
-# Performance Analysis (2025-26)
+# Performance Analysis 
 
-IN4341/DSAIT4315 - Q1 2025/2026
+IN4341/DSAIT4315 - Q1 2026/2027
 
 **Lecturer**:  [Caterina De Bacco](https://www.cdebacco.com/)
 
